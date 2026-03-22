@@ -1,0 +1,19 @@
+# Food Image Classification System - Requirements
+# ================================================
+
+# Deep Learning Framework
+tensorflow>=2.10.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Data Manipulation & Visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Web App Framework
+streamlit>=1.20.0
+
+# Optional: For better performance
+# If you have GPU, install tensorflow-gpu instead
+# tensorflow-gpu>=2.10.0
